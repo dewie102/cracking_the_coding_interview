@@ -1,0 +1,16 @@
+/home/zack/Documents/git_projects/c_sharp/cracking_the_coding_interview/bin/Debug/net5.0/cracking_the_coding_interview
+/home/zack/Documents/git_projects/c_sharp/cracking_the_coding_interview/bin/Debug/net5.0/cracking_the_coding_interview.deps.json
+/home/zack/Documents/git_projects/c_sharp/cracking_the_coding_interview/bin/Debug/net5.0/cracking_the_coding_interview.runtimeconfig.json
+/home/zack/Documents/git_projects/c_sharp/cracking_the_coding_interview/bin/Debug/net5.0/cracking_the_coding_interview.runtimeconfig.dev.json
+/home/zack/Documents/git_projects/c_sharp/cracking_the_coding_interview/bin/Debug/net5.0/cracking_the_coding_interview.dll
+/home/zack/Documents/git_projects/c_sharp/cracking_the_coding_interview/bin/Debug/net5.0/ref/cracking_the_coding_interview.dll
+/home/zack/Documents/git_projects/c_sharp/cracking_the_coding_interview/bin/Debug/net5.0/cracking_the_coding_interview.pdb
+/home/zack/Documents/git_projects/c_sharp/cracking_the_coding_interview/obj/Debug/net5.0/cracking_the_coding_interview.csproj.AssemblyReference.cache
+/home/zack/Documents/git_projects/c_sharp/cracking_the_coding_interview/obj/Debug/net5.0/cracking_the_coding_interview.GeneratedMSBuildEditorConfig.editorconfig
+/home/zack/Documents/git_projects/c_sharp/cracking_the_coding_interview/obj/Debug/net5.0/cracking_the_coding_interview.AssemblyInfoInputs.cache
+/home/zack/Documents/git_projects/c_sharp/cracking_the_coding_interview/obj/Debug/net5.0/cracking_the_coding_interview.AssemblyInfo.cs
+/home/zack/Documents/git_projects/c_sharp/cracking_the_coding_interview/obj/Debug/net5.0/cracking_the_coding_interview.csproj.CoreCompileInputs.cache
+/home/zack/Documents/git_projects/c_sharp/cracking_the_coding_interview/obj/Debug/net5.0/cracking_the_coding_interview.dll
+/home/zack/Documents/git_projects/c_sharp/cracking_the_coding_interview/obj/Debug/net5.0/ref/cracking_the_coding_interview.dll
+/home/zack/Documents/git_projects/c_sharp/cracking_the_coding_interview/obj/Debug/net5.0/cracking_the_coding_interview.pdb
+/home/zack/Documents/git_projects/c_sharp/cracking_the_coding_interview/obj/Debug/net5.0/cracking_the_coding_interview.genruntimeconfig.cache
