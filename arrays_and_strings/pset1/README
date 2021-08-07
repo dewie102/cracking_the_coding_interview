@@ -1,2 +1,17 @@
 Implement an algorithm to determine if a string has all unique
 characters. What if you cannot use additional data structures?
+
+Brute Force:
+Time: O(n^2)
+Space: O(n)
+
+Hash:
+Time: O(n)
+Space: O(2n)
+
+Boolean Array:
+Time: O(n)
+Space: O(2n)
+
+Bit Vector:
+Don't fully understand it, was an example in the book

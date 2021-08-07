@@ -2,7 +2,7 @@ using System.Collections;
 
 namespace pset1
 {
-    static public class Utils
+    static public class Hash
     {
         static public bool IsUnique(string str)
         {
