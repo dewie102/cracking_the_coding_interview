@@ -1,0 +1,10 @@
+﻿Given two strings, write a method to decide if one is a permutation
+of the other.
+
+Permutation - Contains all of the characters from the other string
+			  in any order
+
+SORT & COMPARE
+HASH LARGER STRING & COMPARE
+BINARY TREE
+LINEAR SERACH PER ARRAY - OUTER LOOP IS SHORTER ARRAY
