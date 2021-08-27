@@ -1,5 +1,3 @@
-using System;
-
 namespace pset1
 {
     static public class BooleanArray

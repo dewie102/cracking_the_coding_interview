@@ -1,5 +1,3 @@
-
-
 namespace pset1
 {
     static public class BitVector
